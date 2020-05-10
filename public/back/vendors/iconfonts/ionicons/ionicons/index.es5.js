@@ -1,0 +1,1 @@
+ionicons.loadBundle("admin.blade.php.js",["exports","./chunk-033a0284.js"],function(d, n){window,d.addIcons=n.addIcons,Object.defineProperty(d,"__esModule",{value:!0})});
